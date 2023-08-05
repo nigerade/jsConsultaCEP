@@ -73,7 +73,7 @@
     color: var(--vermelho);
 }
 
-.enviar{
+.enviar {
     display: flex;
     justify-content: center;
     align-items: center;
