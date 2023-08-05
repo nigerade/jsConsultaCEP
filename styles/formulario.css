@@ -81,5 +81,5 @@
 
 .enviar:hover {
     transition: all .45s ease;
-    transform: scale(1.05);
+    transform: scale(0.95);
 }
